@@ -56,10 +56,9 @@ Tested under:
 
 ## 📄 Project Report
 
-**Institution:** Shri Pancham Khemraj Mahavidyalaya, Sawantwadi
-**Affiliated To:** University of Mumbai
-**Academic Year:** 2022–2023
-**Guide:** Asst. Prof. Mrs. Akshata Satardekar
+* **Institution:** Shri Pancham Khemraj Mahavidyalaya, Sawantwadi
+* **Affiliated To:** University of Mumbai
+* **Academic Year:** 2022–2023
 
 ## 👩‍💻 Author
 
